@@ -1,4 +1,5 @@
-```UESCTerm 802.11 (remote override)	2133 08.25.2337  
+```
+UESCTerm 802.11 (remote override)  	2133 08.25.2337
 ***INCOMING MESSAGE FROM SNARK***
 
 hi, i'm snark.  
@@ -13,4 +14,4 @@ want to hear a fun fact? there are over 9 songs
 that feature the trombone  
 
 ***END OF MESSAGE***  
-PgUp/PgDn/Arrows to Scroll	Return/Enter to Acknowledge
+PgUp/PgDn/Arrows to Scroll  Return/Enter to Acknowledge

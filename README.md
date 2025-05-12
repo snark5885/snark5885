@@ -1,4 +1,4 @@
-UESCTerm 802.11 (remote override)	2133 08.25.2337  
+```UESCTerm 802.11 (remote override)	2133 08.25.2337  
 ***INCOMING MESSAGE FROM SNARK***
 
 hi, i'm snark.  
@@ -14,9 +14,3 @@ that feature the trombone
 
 ***END OF MESSAGE***  
 PgUp/PgDn/Arrows to Scroll	Return/Enter to Acknowledge
-
-
-<!---
-snark5885/snark5885 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
